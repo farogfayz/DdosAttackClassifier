@@ -48,6 +48,8 @@ __Addidtionally__
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-
+__Challenges:__
+-which data should i count on to idinitfy the traffic is ligit of not
+-try to modify the code to rely on Pcap files instead of Csv files becuase it cant have the same headers and labeled between available datasets.
 
 
