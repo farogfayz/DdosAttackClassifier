@@ -56,6 +56,14 @@ __Addidtionally__
 -CicFlowMerter: a network traffic flow generator distributed by CIC to generate network traffic features from given Pcap files, used in this project to generate a Csv files compatible with my model so ML model can test verity of data according to its testing data.
 
 ----------------------------------------------------------------------------------------------------------------------------------
+Datasets:
+Train DataSet:
+
+
+Testing DataSet"
+
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 __Challenges:__
 -which data should i count on to idinitfy the traffic is ligit of not
