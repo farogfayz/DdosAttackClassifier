@@ -13,7 +13,7 @@ GoogleDriveLinkForFiles: https://drive.google.com/drive/folders/1O4kEtF767U_Sp9y
 # DdosAttackClassifier
 Machine Learning Classifer For Ddos attacks According to given DataSets.
 
-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 
+ 
 MainDataSetsToTrainedMyModelOn: (CIC-DDoS2019)
 
 https://www.unb.ca/cic/datasets/ddos-2019.html
