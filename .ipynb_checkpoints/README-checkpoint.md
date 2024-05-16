@@ -12,9 +12,9 @@ GoogleDriveLinkForFiles: https://drive.google.com/drive/folders/1O4kEtF767U_Sp9y
 
 # DdosAttackClassifier
 Machine Learning Classifer For Ddos attacks According to given DataSets.
+testPush
 
-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
-
+ 
 MainDataSetsToTrainedMyModelOn: (CIC-DDoS2019)
 
 https://www.unb.ca/cic/datasets/ddos-2019.html
@@ -53,6 +53,15 @@ __Addidtionally__
 -Aws used In this project to get Jupiter Notebooks.
 -Aws S3Buckets used in this project to store DataSets for better and faster Loading Since it internal Network.
 -HardwareUsed: Virtual Machine From Amazon Web Services(AWS) 8vCPU & 32GBram
+-CicFlowMerter: a network traffic flow generator distributed by CIC to generate network traffic features from given Pcap files, used in this project to generate a Csv files compatible with my model so ML model can test verity of data according to its testing data.
+
+----------------------------------------------------------------------------------------------------------------------------------
+Datasets:
+Train DataSet:
+
+
+Testing DataSet"
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
