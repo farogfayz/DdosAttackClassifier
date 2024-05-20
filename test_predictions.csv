@@ -89,7 +89,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -138,7 +138,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -156,7 +156,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
@@ -177,7 +177,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -241,91 +241,91 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,2,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -361,7 +361,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -375,23 +375,23 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
@@ -526,7 +526,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -654,7 +654,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -700,7 +700,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -711,7 +711,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -751,7 +751,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
@@ -872,7 +872,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
@@ -916,7 +916,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -990,12 +990,12 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -1068,18 +1068,18 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -1107,12 +1107,12 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -1133,7 +1133,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -1144,13 +1144,13 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -1198,7 +1198,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -1248,8 +1248,8 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -1280,7 +1280,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -1297,7 +1297,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
@@ -1315,7 +1315,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,2,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -1384,7 +1384,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,0,No Attack
@@ -1484,7 +1484,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
@@ -1501,7 +1501,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -1552,7 +1552,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
@@ -1598,7 +1598,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,2,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,0,No Attack
@@ -1642,7 +1642,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
@@ -1695,7 +1695,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -1739,7 +1739,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
@@ -1795,7 +1795,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -1949,7 +1949,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
@@ -2059,7 +2059,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,2,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 0,No Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -2242,7 +2242,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -2374,7 +2374,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -2529,7 +2529,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -2630,7 +2630,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -2759,7 +2759,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -2855,7 +2855,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -2942,7 +2942,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -2978,7 +2978,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,2,Attack
@@ -3295,7 +3295,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -3308,7 +3308,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -3325,7 +3325,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -3435,9 +3435,9 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -3487,7 +3487,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
@@ -3566,7 +3566,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 0,No Attack,0,No Attack,2,Attack
@@ -3693,8 +3693,8 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,0,No Attack
@@ -3864,7 +3864,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
@@ -3921,7 +3921,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -3942,7 +3942,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,2,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,2,Attack
@@ -3967,7 +3967,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
@@ -4031,7 +4031,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -4054,7 +4054,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,2,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -4097,7 +4097,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -4122,11 +4122,11 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -4153,7 +4153,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -4308,7 +4308,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -4379,7 +4379,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,2,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 0,No Attack,0,No Attack,2,Attack
@@ -4391,7 +4391,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -4446,7 +4446,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 0,No Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,2,Attack
@@ -4733,250 +4733,250 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,1,Attack
+0,No Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+0,No Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+0,No Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,1,Attack
-0,No Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-0,No Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-0,No Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,2,Attack,2,Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
@@ -5031,7 +5031,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,1,Attack
-2,Attack,2,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -5075,7 +5075,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -5083,7 +5083,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -5217,12 +5217,12 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -5248,7 +5248,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -5315,7 +5315,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
@@ -5328,7 +5328,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 0,No Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,2,Attack
@@ -5398,7 +5398,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,2,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -5494,7 +5494,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -5576,7 +5576,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -5584,7 +5584,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
@@ -5690,7 +5690,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -5702,7 +5702,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -5827,7 +5827,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -5859,7 +5859,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,0,No Attack
@@ -5949,7 +5949,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -6022,7 +6022,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,1,Attack
 0,No Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -6054,7 +6054,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
@@ -6160,7 +6160,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
@@ -6183,14 +6183,14 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -6309,7 +6309,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
@@ -6330,7 +6330,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,0,No Attack
 1,Attack,0,No Attack,1,Attack
@@ -6464,7 +6464,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -6580,7 +6580,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -6633,7 +6633,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,2,Attack
 0,No Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -6988,7 +6988,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-1,Attack,2,Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -7001,7 +7001,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
@@ -7087,7 +7087,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,0,No Attack
@@ -7141,11 +7141,11 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,1,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,2,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 0,No Attack,0,No Attack,2,Attack
@@ -7182,7 +7182,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
@@ -7387,7 +7387,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,2,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
@@ -7405,7 +7405,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -7433,7 +7433,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -7526,7 +7526,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
@@ -7536,731 +7536,731 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+0,No Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+0,No Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+0,No Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+0,No Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-0,No Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 0,No Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-0,No Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
-0,No Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+0,No Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+0,No Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
+1,Attack,1,Attack,2,Attack
+1,Attack,0,No Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,0,No Attack
+2,Attack,0,No Attack,2,Attack
+1,Attack,0,No Attack,1,Attack
+1,Attack,0,No Attack,0,No Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+1,Attack,1,Attack,1,Attack
+2,Attack,1,Attack,2,Attack
+0,No Attack,0,No Attack,2,Attack
+2,Attack,0,No Attack,0,No Attack
+1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,2,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-0,No Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-0,No Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-0,No Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-0,No Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,2,Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-0,No Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,2,Attack
-2,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
-2,Attack,2,Attack,2,Attack
-1,Attack,1,Attack,2,Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,0,No Attack,1,Attack
-1,Attack,0,No Attack,0,No Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-1,Attack,1,Attack,1,Attack
-2,Attack,1,Attack,2,Attack
-0,No Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,0,No Attack
-1,Attack,0,No Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
-1,Attack,2,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
@@ -8294,7 +8294,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -8305,7 +8305,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -8399,7 +8399,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -8487,7 +8487,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
@@ -8498,11 +8498,11 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -8555,7 +8555,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,0,No Attack,0,No Attack
@@ -8686,7 +8686,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,0,No Attack
@@ -8696,7 +8696,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,1,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
@@ -8831,7 +8831,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,2,Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -9027,7 +9027,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
@@ -9251,7 +9251,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
@@ -9265,7 +9265,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,0,No Attack,0,No Attack
 1,Attack,1,Attack,1,Attack
 2,Attack,0,No Attack,2,Attack
@@ -9310,7 +9310,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
@@ -9368,7 +9368,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,0,No Attack,0,No Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
 2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
@@ -9467,7 +9467,7 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,0,No Attack,0,No Attack
 2,Attack,1,Attack,2,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,1,Attack,2,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,0,No Attack
@@ -9502,5 +9502,5 @@ Predicted_Label,Mapped_Prediction,Predicted_Label,Mapped_Prediction,Predicted_La
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
 1,Attack,1,Attack,1,Attack
-2,Attack,0,No Attack,2,Attack
+2,Attack,2,Attack,2,Attack
 2,Attack,0,No Attack,2,Attack
