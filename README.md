@@ -4,8 +4,8 @@ This project implements a machine learning-based approach to detect Distributed 
 
 ## Overview
 
-This project aims to detect DDoS attacks in real-time using machine learning techniques. By analyzing network traffic patterns, our model can identify potential DDoS attacks with high accuracy, allowing for quick response and mitigation.
-This Project has been devploped as part of my thesis in Cyprus Inrtnatinoal University.
+This project aims to detect DDoS attacks using machine learning techniques. By analyzing network traffic patterns, our model can identify potential DDoS attacks with high accuracy, allowing for quick response and mitigation.
+This Project has been developed as part of my thesis at Cyprus International University.
 
 ## Features
 
@@ -22,7 +22,7 @@ This Project has been devploped as part of my thesis in Cyprus Inrtnatinoal Univ
 
 3. Run the detection script:
 
-## to implment this project fork it or clone it and train and test on data sets that compatible with the code.
+## to implement this project fork it or clone it and train and test on data sets that are compatible with the code.
 
 ## Contributing
 
